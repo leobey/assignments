@@ -1,0 +1,181 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         435
+	Longest value:         7 characters
+	Most common values:    None (171x)
+	                       V000129 (35x)
+	                       G000565 (24x)
+	                       M001159 (24x)
+	                       P000588 (21x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         459
+	Longest value:         35 characters
+	Most common values:    CHIEF ADMIN OFCR OF THE HOUSE (45x)
+	                       HON. DAVID G. VALADAO (35x)
+	                       MISCELLANEOUS AUTOMOBILES (35x)
+	                       HON. PAUL A. GOSAR (24x)
+	                       HON. CATHY MCMORRIS RODGERS (24x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (2651x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         10
+	Longest value:         30 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (2480x)
+	                       GENERAL EXPENDITURES (54x)
+	                       MISCELLANEOUS AUTOMOBILES (35x)
+	                       ADMIN AND OPS (32x)
+	                       WOUNDED WARRIOR EXPENSES (13x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    TRAVEL (2651x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         72
+	Smallest value:        2017-01-03
+	Largest value:         2017-03-31
+	Most common values:    2017-02-16 (121x)
+	                       2017-03-27 (95x)
+	                       2017-03-16 (82x)
+	                       2017-03-21 (76x)
+	                       2017-01-03 (62x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (2651x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         2214
+	Longest value:         8 characters
+	Most common values:    E0499198 (5x)
+	                       E0497183 (5x)
+	                       E0498050 (5x)
+	                       E0498521 (5x)
+	                       902636 (4x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         584
+	Longest value:         40 characters
+	Most common values:    CITIBANK GOV CARD SERVICE (1621x)
+	                       ENTERPRISE FM TRUST (40x)
+	                       FORD MOTOR CREDIT (31x)
+	                       ALLY FINANCIAL INC (19x)
+	                       ROJEWSKI COLE J. (18x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         209
+	Smallest value:        2014-04-03
+	Largest value:         2017-03-20
+	Most common values:    2017-01-06 (126x)
+	                       2017-01-03 (95x)
+	                       2017-02-01 (88x)
+	                       2017-01-02 (80x)
+	                       2017-01-13 (76x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         212
+	Smallest value:        2014-04-25
+	Largest value:         2017-12-26
+	Most common values:    2017-02-28 (108x)
+	                       2017-01-02 (97x)
+	                       2017-02-27 (94x)
+	                       2017-01-30 (93x)
+	                       2017-01-31 (80x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         12
+	Longest value:         34 characters
+	Most common values:    COMMERCIAL TRANSPORTATION (1521x)
+	                       LODGING (466x)
+	                       PRIVATE AUTO MILEAGE (341x)
+	                       AUTOMOBILE LEASE (137x)
+	                       CAR RENTAL (119x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2247
+	Smallest value:        500.4
+	Largest value:         13,902.1
+	Sum:                   3,209,320.52
+	Mean:                  1,210.608
+	Median:                833.53
+	StDev:                 1,009.511
+	Most common values:    625.17 (17x)
+	                       860.91 (12x)
+	                       505.1 (9x)
+	                       608.4 (9x)
+	                       878.66 (9x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         4
+	Smallest value:        2,014
+	Largest value:         2,017
+	Sum:                   5,346,246
+	Mean:                  2,016.69
+	Median:                2,017
+	StDev:                 0.478
+	Most common values:    2,017 (1844x)
+	                       2,016 (798x)
+	                       2,014 (5x)
+	                       2,015 (4x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         584
+	Longest value:         40 characters
+	Most common values:    CITIBANK GOV CARD SERVICE (1621x)
+	                       ENTERPRISE FM TRUST (40x)
+	                       FORD MOTOR CREDIT (31x)
+	                       ALLY FINANCIAL INC (19x)
+	                       ROJEWSKI COLE J. (18x)
+
+Row count: 2651
