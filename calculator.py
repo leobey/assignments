@@ -25,3 +25,7 @@ def square(num):
 #defining function to cube 
 def cube(num): 
 	return num**3 
+
+#defining function to square a number n times 
+def square_n_times(num, n): 
+	return num**2**n
