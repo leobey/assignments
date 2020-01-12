@@ -17,3 +17,7 @@ function subtract(a,b){
 function divide(a,b){
 	return a/b
 }
+
+console.log("I'm going to use the calculator functions to divide 150 by 6)
+var x = divide(150,5)
+console.log(x)
