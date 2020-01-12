@@ -17,3 +17,11 @@ def divide (a,b):
 print("I'm going to use the calculator functions to multiply 5 and 6")
 x = multiply(5,6)
 print(x)
+
+#defining function to square 
+def square(num): 
+	return num**2
+
+#defining function to cube 
+def cube(num): 
+	return num**3 
