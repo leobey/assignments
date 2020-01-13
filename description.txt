@@ -1,5 +1,5 @@
 "Travel" is one of the 10 categories into which the House divides its expenditures. Output.csv contains only relatively high travel expenditure, exceeding USD 500. The descriptive statistics relating to this data, which can be found in summary.text, show that:
-- The highest travel expenditure incurred was USD 13902. 
+- The highest travel expenditure incurred in the first quarter of 2017 was USD 13902. 
 - The offices that made the highest number of (substantial) travel expense claims are those of (i) the chief admin officer of the House and (ii) David G. Valadao. 
 - The majority of travel expense claims filed during the first quarter of 2017 relate to travel during January 2017, but some claims go back as far as 2014 (5) and 2015 (4). 
 - The most common mode of transport (for the travel underlying the expense claims) was commercial transport (as opposed to driving private cars or renting/ leasing cars). 

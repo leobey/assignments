@@ -1,0 +1,7 @@
+Using the command touch with the argument filter.py I created a new file in my assignments folder where I saved the programme filter.py, which I made executable using the command chmod. 
+
+Using the curl command, which takes a website as input and prints its content to STDOUT, I obtained the 2017 first quarter house expenditure data; then piped this data into the programme filter.py, which reads data from STDIN that is in a csv format and filters rows where someone has made a purchase for water that is over $1000 and then writes this data back to STDOUT. I redirected the filtered data to a separate file (expensive_water.csv). 
+
+I used the command cat with the argument expensive_water.csv to print the filtered data to STDOUT, the piped the data into csvstat (having installed csvkit) to obtain descriptive statistics for all columns in expensive_water.csv. I redirected the descriptive statistics into a separate (text) file (expensive_water_summary.txt).  
+
+Inter alia, I found that the highest expense claim relating to water in the relevant quarter amounted to $4158. 
